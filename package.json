@@ -1,0 +1,12 @@
+{
+  "name"         : "mirror_websites",
+  "version"      : "0.1.0",
+  "description"  : "host a website that mirrors the website at a given url",
+  "main"         : "server.js",
+  "author"       : "PraveenMathew92",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
